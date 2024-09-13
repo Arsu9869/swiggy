@@ -10,3 +10,9 @@ The css code that is written can be shortened, i will do that later.
 i have mostly used "dispaly : flex"   css option as it was mostly used for all the the elements in the real website as well.
 
 You can make whatever changes you want to the page,try adding more transitions,box-shadows etc
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+I will be trying to make a login page as well.
+
+If anybody is interested ,you could make the  "Restaurants with online food delivery in Bangalore" section.
